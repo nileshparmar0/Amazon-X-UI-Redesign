@@ -1,2 +1,21 @@
 # Amazon-X-UI-Redesign
-Amazon &amp; X UI Redesign merges Amazon's shopping app with X-like social features. Users share products via DMs, post about items, and explore a social feed. Cleaner interface, enhanced product pages, and interactive elements create a community-driven shopping experience.
+This project reimagines the Amazon shopping app by integrating social features inspired by X (formerly Twitter). It enhances the e-commerce experience with community-driven product discovery and sharing.
+
+Key Features:
+○ Social Sharing: Share product details via DMs
+○ Product Posts: Create and view posts about items
+○ Redesigned UI: Cleaner interface with improved navigation
+○ Enhanced Product Pages: Integrated user-generated content
+○ Social Discovery: Explore trending products and popular posts
+○ Interactive Elements: Live shopping events and community Q&A
+
+Design Tool:
+○ This project was designed using Figma.
+○ Viewing the Design
+
+To view the design:
+○ Visit Figma
+○ Sign in or create an account
+○ Open the project link: Amazon & X UI Redesign
+
+
