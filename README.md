@@ -13,6 +13,8 @@ Design Tool:
 ○ This project was designed using Figma.
 ○ Viewing the Design
 
+License This project is licensed under the MIT License.
+
 To view the design:
 ○ Visit Figma
 ○ Sign in or create an account
